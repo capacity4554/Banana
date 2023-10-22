@@ -2,7 +2,7 @@
 	{
 		"name": "Bolo",
 		"unitType": "Sword",
-		"uniqueTo": "Philippines
+		"uniqueTo": "Philippines",
 		"movement": 2,
 		"strength": 14,
 		"cost": 74,
